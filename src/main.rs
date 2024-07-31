@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 fn main() {
     let  name = String::from("Georgie");
     let age = 32;
